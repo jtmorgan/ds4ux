@@ -1,0 +1,25 @@
+Baby Names Project - Community Data Science Workshops
+=======================================================================
+
+These are example programs for use in the Community Data Science
+Workshops.  Detail about this project is kept in the CDSW wiki:
+
+http://wiki.communitydata.cc/Baby_Names
+
+
+Copyright and Credit
+=======================================================================
+Copyright ⓒ 2014-2015  Benjamin Mako Hill (http://mako.cc/)
+
+Released as free software under the GNU General Public License v3 or
+any later version.
+
+Data for this project (the txt files) are downloaded from the US
+Social Security administration and are public domain:
+
+http://www.ssa.gov/oact/babynames/limits.html
+
+More details about the CDSW is available here:
+
+http://wiki.communitydata.cc/Community_Data_Science_Workshops
+
